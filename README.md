@@ -21,10 +21,9 @@ The app also features a responsive UI, toasts for user notifications, and proper
 - **React Toastify**: For user notifications (e.g., success, warning, and error messages).
 - **Tailwind CSS**: For styling the application and ensuring it follows the Figma design.
 - **DaisyUI**: For reusable components.
-- **PropTypes**: For validating props passed between components.
 - **JavaScript**: Core logic for managing state and interactions.
 - **Figma**: As the design reference.
-- **JSON**: Used to store player data.
+
 
 ## Key Features
 
@@ -48,8 +47,7 @@ The app also features a responsive UI, toasts for user notifications, and proper
 - **Remove Selected Players**: Users can remove selected players using the "Remove" button in the selected players section.
 
 
+Live Website Link: [react-players-alifa.surge.sh](react-players-alifa.surge.sh)
 
-
-Live Website Link: react-players-alifa.surge.sh
 
 GiHub Repository Link (private): https://github.com/programming-hero-web-course1/b10a7-dream-11-alifa-ara-heya
